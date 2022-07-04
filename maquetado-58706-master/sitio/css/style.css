@@ -101,7 +101,8 @@ header nav a {
     display: inline-block;
     transition: 300ms;
 }
-#heroIndex article a:hover{
+
+#heroIndex article a:hover {
     color: rgb(215, 143, 183);
     background-color: #fff;
 }
