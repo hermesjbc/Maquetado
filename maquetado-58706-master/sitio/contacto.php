@@ -5,7 +5,7 @@
     $consulta = $_POST['consulta'];
 
     /* configuramos datos de email a enviar */
-    $destinatario = 'goku@drop.com';
+    $destinatario = 'hermesjbcmercadoli@gmail.com';
     $asunto = 'Email enviado desde mi sitio';
     $cuerpo = '<div style="width: 500px; font-family: sans-serif; ';
     $cuerpo .= 'border-radius: 16px; background-color: #82fae4; ';
